@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @ManelDaza
+# Hi, I’m @ManelDaza
 - 👀 I’m interested in PC and Web developement
-- 🌱 I’m currently learning C# & python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- [x] Bof
+- 🌱 I’m currently learning Java & python
+- 📫 How to reach me _don't_
+- ¬(·_·¬)
+- [x] Espinete
 
 <!---
 ManelDaza/ManelDaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
